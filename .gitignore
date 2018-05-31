@@ -265,4 +265,5 @@ paket-files/
 __pycache__/
 *.pyc
 
-!PricedlessKitchens/PricedlessKitchensWeb/Views/Web.Config #Except for foo.dll
+!*/PricedlessKitchens/PricedlessKitchensWeb/Views/Web.Config #Except for views web.config
+
